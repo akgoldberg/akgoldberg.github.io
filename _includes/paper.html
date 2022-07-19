@@ -1,0 +1,43 @@
+{% include base_path %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+      <p>
+      <b><i>
+      {% if post.paperurl %}
+          <a href="{{ post.paperurl }}">{{ post.title }}</a>
+      {% elsif post.paperlink %}
+          <a href="{{ base_path }}{{ post.paperlink }}">{{ post.title }}</a>
+      {% else %}
+          {{ post.title }}
+      {% endif %}
+      </i></b>
+
+      {% if post.workingpaper %}
+      (Working paper)
+      {% endif %}
+
+      {% if post.authors %}
+      <br>
+      {{post.authors}}
+      {% endif %}
+
+      {% if post.venue %}
+      <br>
+      <i>{{ post.venue }}.</i>
+      {% endif %}
+
+      {% if post.posterurl or post.posterlink %}
+        <br>
+        {% if post.posterurl %}
+          <a href="{{ post.posterurl }}">Poster</a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.posterlink }}">Poster</a>
+        {% endif %}
+      {% endif %}
+    </p>
+
+  </article>
+</div>
