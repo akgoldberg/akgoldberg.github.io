@@ -13,7 +13,8 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <!-- NOTE: switch back to masthead__menu-item only if more tabs added -->
+            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
