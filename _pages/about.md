@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in the Computer Science Department at Carnegie Mellon University, where I am advised by [Giulia Fanti](https://www.andrew.cmu.edu/user/gfanti/) and [Nihar Shah](https://www.cs.cmu.edu/~nihars/). I am supported in part by an [NSF Graudate Research Fellowship](https://www.nsfgrfp.org/). I am interested in data privacy and anonymity, especially with respect to transparent sharing of data.
+I am a third year PhD student in the Computer Science Department at Carnegie Mellon University, where I am advised by [Giulia Fanti](https://www.andrew.cmu.edu/user/gfanti/) and [Nihar Shah](https://www.cs.cmu.edu/~nihars/). I am supported in part by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). I am broadly interested in data privacy and anonymity, especially with respect to transparent sharing of data. I am highly motivated by the application area of improving scientific peer review. My current reserach looks at questions of measurement, privacy and transparency in peer review.
 
 Prior to CMU, I received my A.B. in Applied Mathematics from Harvard College where I was lucky to work with [Salil Vadhan](https://salil.seas.harvard.edu/). As an undergrad, I did [research](https://dash.harvard.edu/bitstream/handle/1/39011509/GOLDBERG-SENIORTHESIS-2018.pdf?sequence=3&isAllowed=y) on differentially private inference for models of random graphs. Before beginning my PhD, I spent three years working as a data scientist at Facebook on ads transparency and integrity.
 
