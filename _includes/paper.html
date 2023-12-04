@@ -29,6 +29,16 @@
       <i>{{ post.venue }}.</i>
       {% endif %}
 
+      {% if post.blogurl or post.bloglink %}
+      <br>
+      {% if post.blogurl %}
+        <a href="{{ post.blogurl }}">Blog post</a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.bloglink }}">Blog post</a>
+      {% endif %}
+      {% endif %}
+
+
       {% if post.posterurl or post.posterlink %}
         <br>
         {% if post.posterurl %}
