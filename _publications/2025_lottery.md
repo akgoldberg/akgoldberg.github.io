@@ -1,5 +1,5 @@
 ---
-title: "A Principled Approach to Randomized Selection under Uncertainty"
+title: "A Principled Approach to Randomized Selection under Uncertainty: Applications to Peer Review and Grant Funding"
 collection: publications
 date: 2025-06-25
 venue: arXiv, 2025 (Under submission)
