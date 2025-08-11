@@ -1,2 +1,16 @@
 _site/
 .DS_Store
+
+# Ruby/Bundler
+vendor/
+.bundle/
+Gemfile.lock
+
+# Jekyll
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS
+.DS_Store
+Thumbs.db

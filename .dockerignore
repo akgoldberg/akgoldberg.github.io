@@ -1,0 +1,36 @@
+# Ignore development files
+.git
+.gitignore
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+
+# Ignore build artifacts
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.bundle
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.sublime-project
+*.sublime-workspace
+.vscode
+.idea
+
+# Ignore node modules and package files
+node_modules
+package.json
+package-lock.json
+
+# Ignore markdown generator
+markdown_generator
+
+# Ignore talkmap
+talkmap.ipynb
+talkmap.py

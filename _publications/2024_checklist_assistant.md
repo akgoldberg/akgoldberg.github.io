@@ -6,5 +6,5 @@ venue: "arXiv, 2024 (Under submission)"
 paperurl: "https://arxiv.org/abs/2411.03417"
 authors: "Alexander Goldberg, Ihsan Ullah, Thanh Gia Hieu Khuong, Benedictus Kent Rachmat, Zhen Xu, Isabelle Guyon, Nihar B. Shah"
 image: "checklist_assistant.png"
-excerpt: "We investigate the effectiveness of large language models as automated checklist assistants for scientific paper authors, conducting a large-scale experiment during NeurIPS 2024 to evaluate their impact on paper quality and author satisfaction."
+excerpt: "We evaluate the use of LLMs for checking conference submissions, by deploying a tool that checks papers against the NeurIPS author checklist."
 ---
