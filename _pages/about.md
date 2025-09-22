@@ -16,6 +16,7 @@ layout: minimal
       <div class="social-links">
         <a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}" target="_blank">Google Scholar</a>
         <a href="https://github.com/{{ site.author.github }}" target="_blank">Github</a>
+        <a href="{{ base_path }}/files/akgoldberg_cv.pdf" target="_blank">CV</a>
       </div>
     </div>
   </div>
