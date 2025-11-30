@@ -31,7 +31,7 @@ layout: minimal
 
     <p>
     My research develops methods to understand and mitigate uncertainty when making decisions based on error-prone evaluations.
-    Across many domains, critical choices rely on judgments that are subjective, noisy, or biased. I use tools from AI, optimization,
+    Across many domains, critical choices rely on judgments that are subjective, noisy, or potentially biased. I use tools from AI, optimization,
     and data science to design principled algorithms and large-scale experiments that make such decisions more reliable,
     transparent, and fair.  A motivating application of my work is in evaluating science, where decisions about publishing, funding, and disseminating research are often made under uncertainty. More broadly, my work applies to sociotechnical systems in which human judgment plays a central role, such as admissions, job hiring, investment decisions, or medical assessments.
     </p>
