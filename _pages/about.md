@@ -22,14 +22,24 @@ layout: minimal
   </div>
   
   <div class="content-column">
-    <p>I am a fifth year PhD student in the Computer Science Department at Carnegie Mellon University, where I am advised by <a href="https://www.andrew.cmu.edu/user/gfanti/">Giulia Fanti</a> and <a href="https://www.cs.cmu.edu/~nihars/">Nihar B. Shah</a>. I am supported in part by an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. I am broadly interested in methods to improve decision making from distributed human evaluations. One application area I have considered extensively is scientific peer review.</p>
+    <p>
+   I am a fifth-year PhD student in the Computer Science Department at Carnegie Mellon University, advised by
+    <a href="https://www.andrew.cmu.edu/user/gfanti/">Giulia Fanti</a> and
+    <a href="https://www.cs.cmu.edu/~nihars/">Nihar B. Shah</a>, supported in part by an
+    <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>.
+       </p>
 
-    <p>My current research focuses on two main areas. First, I work on leveraging AI and statistical tools to enhance the quality and fairness of review processes. Second, I develop methods for privacy-preserving data sharing of non-tabular data like graphs and time-series, which can enable more transparency into review processes while preserving participant anonymity.</p>
+    <p>
+    My research develops methods to understand and mitigate uncertainty when making decisions based on error-prone evaluations.
+    Across many domains, critical choices rely on judgments that are subjective, noisy, or biased. I use tools from AI, optimization,
+    and data science to design principled algorithms and large-scale experiments that make such decisions more reliable,
+    transparent, and fair.  A motivating application of my work is in evaluating science, where decisions about publishing, funding, and disseminating research are often made under uncertainty. More broadly, my work applies to sociotechnical systems in which human judgment plays a central role, such as admissions, job hiring, investment decisions, or medical assessments.
+    </p>
 
     <p>Prior to CMU, I received my A.B. in Applied Mathematics from Harvard College where I was lucky to work with <a href="https://salil.seas.harvard.edu/">Salil Vadhan</a>. As an undergrad, I did research on differentially private inference for models of random graphs. Before beginning my PhD, I spent three years working as a data scientist at Facebook on ads transparency and integrity.</p>
     
     <div style="color: #0074D9; font-weight: bold; margin-top: 2em;">
-      I am graduating in Spring 2026 and actively seeking postdoctoral research positions.
+      I am graduating in Spring 2026 and am actively seeking academic postdoctoral positions or research roles in industry.
     </div>
   </div>
 </div>
