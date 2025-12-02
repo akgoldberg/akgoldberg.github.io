@@ -7,5 +7,5 @@ paperurl: "https://arxiv.org/pdf/2506.19083"
 blogurl: "https://researchonresearch.blog/2025/07/12/randomizing-selection-under-uncertainty-designing-principled-partial-lotteries-for-grant-funding-and-beyond/"
 authors: "Alexander Goldberg, Giulia Fanti and Nihar B. Shah"
 image: "lottery_paper.png"
-excerpt: "We develop a principled approach to randomizing competitive selection decisions under uncertainty about the relative quality of candidates, with applications to scientific grant funding loteries."
+excerpt: "We develop a principled approach to randomizing competitive selection decisions under uncertainty about the relative quality of candidates, with applications to scientific grant funding and peer review."
 ---
