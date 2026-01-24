@@ -39,7 +39,7 @@ layout: minimal
     <p>Prior to CMU, I received my A.B. in Applied Mathematics from Harvard College where I was lucky to work with <a href="https://salil.seas.harvard.edu/">Salil Vadhan</a>. As an undergrad, I did research on differentially private inference for models of random graphs. Before beginning my PhD, I spent three years working as a data scientist at Facebook on ads transparency and integrity.</p>
     
     <div style="color: #0074D9; font-weight: bold; margin-top: 2em;">
-      I am graduating in Spring 2026 and am actively seeking academic postdoctoral positions or research roles in industry.
+      I am graduating in Spring 2026 and am actively seeking roles in industry or academia.
     </div>
   </div>
 </div>
