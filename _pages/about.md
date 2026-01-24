@@ -14,9 +14,10 @@ layout: minimal
       <p><strong>Email:</strong><br>akgoldbe [at] cs.cmu.edu</p>
       
       <div class="social-links">
-        <a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}" target="_blank">Google Scholar</a>
-        <a href="https://github.com/{{ site.author.github }}" target="_blank">Github</a>
-        <a href="{{ base_path }}/files/akgoldberg_cv.pdf" target="_blank">CV</a>
+        <a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i> Scholar</a>
+        <a href="https://github.com/{{ site.author.github }}" target="_blank" title="GitHub"><i class="fab fa-github"></i> Github</a>
+        <a href="https://www.linkedin.com/in/akgoldberg/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        <a href="{{ base_path }}/files/akgoldberg_cv.pdf" target="_blank" title="CV"><i class="fas fa-file-pdf"></i> CV</a>
       </div>
     </div>
   </div>
