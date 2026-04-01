@@ -23,6 +23,10 @@ layout: minimal
   </div>
   
   <div class="content-column">
+    <div style="color: #0074D9; font-weight: bold; margin-bottom: 1em;">
+      I am graduating in Spring 2026 and am actively seeking roles in industry or academia.
+    </div>
+
     <p>
    I am a fifth-year PhD student in the Computer Science Department at Carnegie Mellon University, advised by
     <a href="https://www.andrew.cmu.edu/user/gfanti/">Giulia Fanti</a> and
@@ -39,8 +43,5 @@ layout: minimal
 
     <p>Prior to CMU, I received my A.B. in Applied Mathematics from Harvard College where I was lucky to work with <a href="https://salil.seas.harvard.edu/">Salil Vadhan</a>. As an undergrad, I did research on differentially private inference for models of random graphs. Before beginning my PhD, I spent three years working as a data scientist at Facebook on ads transparency and integrity.</p>
     
-    <div style="color: #0074D9; font-weight: bold; margin-top: 2em;">
-      I am graduating in Spring 2026 and am actively seeking roles in industry or academia.
-    </div>
   </div>
 </div>
