@@ -23,10 +23,6 @@ layout: minimal
   </div>
   
   <div class="content-column">
-    <div style="color: #0074D9; font-weight: bold; margin-bottom: 1em;">
-      I am graduating in Spring 2026 and am actively seeking roles in industry or academia.
-    </div>
-
     <p>
    I am a fifth-year PhD student in the Computer Science Department at Carnegie Mellon University, advised by
     <a href="https://www.andrew.cmu.edu/user/gfanti/">Giulia Fanti</a> and
